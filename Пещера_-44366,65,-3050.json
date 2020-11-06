@@ -1,0 +1,17 @@
+{
+  "id": "Пещера_-44366,65,-3050",
+  "name": "Пещера",
+  "icon": "waypoint-normal.png",
+  "x": -44366,
+  "y": 65,
+  "z": -3050,
+  "r": 76,
+  "g": 131,
+  "b": 69,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

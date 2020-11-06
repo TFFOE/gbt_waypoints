@@ -1,0 +1,17 @@
+{
+  "id": "Карьер_-43348,64,-3312",
+  "name": "Карьер",
+  "icon": "waypoint-normal.png",
+  "x": -43348,
+  "y": 64,
+  "z": -3312,
+  "r": 196,
+  "g": 127,
+  "b": 210,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

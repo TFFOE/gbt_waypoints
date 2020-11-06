@@ -1,0 +1,17 @@
+{
+  "id": "Руда_-43952,65,-3238",
+  "name": "Руда",
+  "icon": "waypoint-normal.png",
+  "x": -43952,
+  "y": 65,
+  "z": -3238,
+  "r": 197,
+  "g": 160,
+  "b": 34,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

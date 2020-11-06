@@ -1,0 +1,17 @@
+{
+  "id": "Резиновые деревья_-44587,68,-3029",
+  "name": "Резиновые деревья",
+  "icon": "waypoint-normal.png",
+  "x": -44587,
+  "y": 68,
+  "z": -3029,
+  "r": 81,
+  "g": 118,
+  "b": 22,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

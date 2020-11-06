@@ -1,0 +1,17 @@
+{
+  "id": "Вход в пещеру_-43388,75,-3262",
+  "name": "Вход в пещеру",
+  "icon": "waypoint-normal.png",
+  "x": -43388,
+  "y": 75,
+  "z": -3262,
+  "r": 189,
+  "g": 95,
+  "b": 195,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
