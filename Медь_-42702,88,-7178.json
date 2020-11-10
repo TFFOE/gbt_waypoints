@@ -1,0 +1,17 @@
+{
+  "id": "Медь_-42702,88,-7178",
+  "name": "Медь",
+  "icon": "waypoint-normal.png",
+  "x": -42702,
+  "y": 88,
+  "z": -7178,
+  "r": 250,
+  "g": 56,
+  "b": 213,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

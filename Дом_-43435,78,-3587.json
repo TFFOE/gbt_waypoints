@@ -1,0 +1,17 @@
+{
+  "id": "Дом_-43435,78,-3587",
+  "name": "Дом",
+  "icon": "waypoint-normal.png",
+  "x": -43435,
+  "y": 78,
+  "z": -3587,
+  "r": 84,
+  "g": 194,
+  "b": 63,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

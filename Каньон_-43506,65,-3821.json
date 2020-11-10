@@ -1,0 +1,17 @@
+{
+  "id": "Каньон_-43506,65,-3821",
+  "name": "Каньон",
+  "icon": "waypoint-normal.png",
+  "x": -43506,
+  "y": 65,
+  "z": -3821,
+  "r": 191,
+  "g": 176,
+  "b": 61,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

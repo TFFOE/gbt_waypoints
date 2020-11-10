@@ -1,0 +1,17 @@
+{
+  "id": "Большая пещеерааа_-43254,67,-5937",
+  "name": "Большая пещеерааа",
+  "icon": "waypoint-normal.png",
+  "x": -43254,
+  "y": 67,
+  "z": -5937,
+  "r": 193,
+  "g": 14,
+  "b": 224,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

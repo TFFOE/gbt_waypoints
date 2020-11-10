@@ -1,0 +1,17 @@
+{
+  "id": "Микропещерка_-43110,61,-6405",
+  "name": "Микропещерка",
+  "icon": "waypoint-normal.png",
+  "x": -43110,
+  "y": 61,
+  "z": -6405,
+  "r": 8,
+  "g": 21,
+  "b": 231,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
